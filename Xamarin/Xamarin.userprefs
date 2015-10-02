@@ -1,1 +1,24 @@
-﻿<Properties StartupItem="iOS-Utility/iOS-Utility.csproj" />
+﻿<Properties StartupItem="iOS-Utility/iOS-Utility.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS-Utility/ApiDefinitions.cs">
+    <Files>
+      <File FileName="iOS-Utility/libiOS-Utilities-Library.linkwith.cs" Line="1" Column="1" />
+      <File FileName="iOS-Utility/ApiDefinitions.cs" Line="21" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>pair.ImplementationType</Value>
+          <Value>baseInterFaces</Value>
+          <Value>pair.ServiceTypes</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../rdpreader_sharp/Framework/RDPReader.Framework/Components/Page/ElementTap.cs" line="234" offsetX="522" offsetY="3450" expression="PageRender" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

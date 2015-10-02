@@ -44,9 +44,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.ObjCBinding.CSharp.targets" />
@@ -54,5 +51,8 @@
     <ObjcBindingNativeLibrary Include="..\..\Native\Binary\libiOS-Utilities-Library.a">
       <Link>libiOS-Utilities-Library.a</Link>
     </ObjcBindingNativeLibrary>
+  </ItemGroup>
+  <ItemGroup>
+    <ObjcBindingApiDefinition Include="ApiDefinitions.cs" />
   </ItemGroup>
 </Project>
