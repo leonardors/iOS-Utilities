@@ -1,0 +1,1 @@
+sharpie bind -output ./ -namespace iOSUtilities -sdk iphoneos9.0 ../../Native/Binary/include/MemoryHelper.h
